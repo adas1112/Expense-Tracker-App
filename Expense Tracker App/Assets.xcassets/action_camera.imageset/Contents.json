@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "action_camera.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Payment Google Pay</title>
+  <g stroke="#0B6B4F" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 32a20 20 0 0 1 34-14l-8 8a9 9 0 0 0-15 6z"/><path d="M12 32a20 20 0 0 0 34 14l-8-8a9 9 0 0 1-15-6z"/><path d="M32 32h20"/>
+  </g>
+</svg>

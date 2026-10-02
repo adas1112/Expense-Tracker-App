@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Auth Google</title>
+  <g stroke="#0B6B4F" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M54 33c0-2 0-4-.6-6H32v11h12.4c-.5 3-2.2 5.6-4.7 7.3v6h7.7C52 47.2 54 40.8 54 33z" fill="#4285F4" stroke="none"/><path d="M32 55c6.3 0 11.6-2.1 15.4-5.7l-7.7-6c-2.1 1.4-4.7 2.2-7.7 2.2-5.9 0-10.9-4-12.7-9.5h-8v6.2C15.1 49.7 22.9 55 32 55z" fill="#34A853" stroke="none"/><path d="M19.3 36c-.5-1.4-.8-2.9-.8-4.5s.3-3.1.8-4.5v-6.2h-8A23.1 23.1 0 0 0 9 31.5c0 3.8.9 7.3 2.3 10.5l8-6z" fill="#FBBC05" stroke="none"/><path d="M32 17c3.4 0 6.5 1.2 8.9 3.5l6.7-6.7C43.6 10 38.3 8 32 8c-9.1 0-16.9 5.2-20.7 12.8l8 6.2C21.1 21 26.1 17 32 17z" fill="#EA4335" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Auth Face Id</title>
+  <g stroke="#0B6B4F" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 13h-5a4 4 0 0 0-4 4v5M43 13h5a4 4 0 0 1 4 4v5M21 51h-5a4 4 0 0 1-4-4v-5M43 51h5a4 4 0 0 0 4-4v-5"/><circle cx="25" cy="29" r="2" fill="#0B6B4F"/><circle cx="39" cy="29" r="2" fill="#0B6B4F"/><path d="M25 40c4 3 10 3 14 0"/>
+  </g>
+</svg>

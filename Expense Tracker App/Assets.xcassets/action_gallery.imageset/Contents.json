@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "action_gallery.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

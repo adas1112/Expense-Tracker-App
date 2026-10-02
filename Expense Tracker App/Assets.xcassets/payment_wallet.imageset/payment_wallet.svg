@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Payment Wallet</title>
+  <g stroke="#0B6B4F" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 18h37v34H12z"/><path d="M12 18c0-5 4-8 9-8h28v8"/><path d="M40 31h13v11H40c-5 0-5-11 0-11z"/>
+  </g>
+</svg>

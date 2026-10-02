@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "payment_apple_pay.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

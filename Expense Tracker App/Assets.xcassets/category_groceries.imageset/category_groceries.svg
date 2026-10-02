@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Category Groceries</title>
+  <g stroke="#0B6B4F" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 16h7l4 28h23l5-21H20"/><circle cx="27" cy="52" r="3"/><circle cx="46" cy="52" r="3"/>
+  </g>
+</svg>

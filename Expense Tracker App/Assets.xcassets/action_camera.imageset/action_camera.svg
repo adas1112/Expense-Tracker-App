@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Action Camera</title>
+  <g stroke="#0B6B4F" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 20h10l4-6h12l4 6h10v31H12z"/><circle cx="32" cy="35" r="9"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Chart Line</title>
+  <g stroke="#0B6B4F" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 48 22 36l10 7 10-18 12 8"/><circle cx="22" cy="36" r="2" fill="#0B6B4F"/><circle cx="32" cy="43" r="2" fill="#0B6B4F"/><circle cx="42" cy="25" r="2" fill="#0B6B4F"/>
+  </g>
+</svg>

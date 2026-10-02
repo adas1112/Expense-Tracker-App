@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Auth Fingerprint</title>
+  <g stroke="#0B6B4F" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 27c0-8 5-13 12-13s12 5 12 13v5M14 30c0-11 7-19 18-19s18 8 18 19M18 38v-7c0-8 5-13 14-13s14 5 14 13v7M24 48V34c0-5 3-8 8-8s8 3 8 8v7"/>
+  </g>
+</svg>

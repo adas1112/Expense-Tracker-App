@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Category Transport</title>
+  <g stroke="#0B6B4F" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 44h-4v-8l4-17h30l4 17v8h-4M18 44h28M19 29h26M21 37h.1M43 37h.1"/><circle cx="21" cy="44" r="4"/><circle cx="43" cy="44" r="4"/>
+  </g>
+</svg>

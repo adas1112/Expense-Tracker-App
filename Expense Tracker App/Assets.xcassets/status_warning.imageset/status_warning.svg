@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Status Warning</title>
+  <g stroke="#0B6B4F" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 10 55 52H9z" fill="#F59A23" stroke="none"/><path d="M32 25v12M32 43h.1" stroke="white" stroke-width="4"/>
+  </g>
+</svg>

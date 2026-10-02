@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="24765" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="24743"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="SFPRODISPLAYBOLD.OTF">
+            <string>SFProDisplay-Bold</string>
+        </array>
+        <array key="SFPRODISPLAYMEDIUM.OTF">
+            <string>SFProDisplay-Medium</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splash_background_dark" translatesAutoresizingMaskIntoConstraints="NO" id="ZeH-yt-Axr">
+                                <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Loading..." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GBC-vD-fyd">
+                                <rect key="frame" x="151.66666666666666" y="748" width="90" height="24"/>
+                                <fontDescription key="fontDescription" name="SFProDisplay-Bold" family="SF Pro Display" pointSize="20"/>
+                                <color key="textColor" red="0.4821984768" green="0.59993010759999998" blue="0.55382090809999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="ZpZ-AG-9qv">
+                                <rect key="frame" x="81.666666666666686" y="277.33333333333337" width="230" height="297.33333333333337"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo_150" translatesAutoresizingMaskIntoConstraints="NO" id="CkT-AN-Byl">
+                                        <rect key="frame" x="0.0" y="0.0" width="230" height="150"/>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="SpendWise" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5mB-Gj-VPd">
+                                        <rect key="frame" x="0.0" y="165" width="230" height="52.666666666666657"/>
+                                        <fontDescription key="fontDescription" name="SFProDisplay-Bold" family="SF Pro Display" pointSize="44"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3Wh-9z-zgo">
+                                        <rect key="frame" x="0.0" y="232.66666666666666" width="230" height="64.666666666666657"/>
+                                        <string key="text">Track Today
+A Better Tomorrow</string>
+                                        <fontDescription key="fontDescription" name="SFProDisplay-Medium" family="SF Pro Display" pointSize="27"/>
+                                        <color key="textColor" red="0.4821984768" green="0.59993010759999998" blue="0.55382090809999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="___" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EfT-fP-fTV">
+                                <rect key="frame" x="184" y="719" width="25.333333333333343" height="24"/>
+                                <fontDescription key="fontDescription" name="SFProDisplay-Bold" family="SF Pro Display" pointSize="20"/>
+                                <color key="textColor" red="0.4821984768" green="0.59993010759999998" blue="0.55382090809999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" red="0.067261956629999994" green="0.14459526540000001" blue="0.118772693" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <constraints>
+                            <constraint firstItem="EfT-fP-fTV" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="4Cp-fH-XIg"/>
+                            <constraint firstItem="GBC-vD-fyd" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="BLk-4Q-4BD"/>
+                            <constraint firstItem="ZeH-yt-Axr" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="LCk-Jt-1Ed"/>
+                            <constraint firstAttribute="bottom" secondItem="GBC-vD-fyd" secondAttribute="bottom" constant="80" id="QZK-IS-LLq"/>
+                            <constraint firstItem="ZpZ-AG-9qv" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="hT1-IF-E4o"/>
+                            <constraint firstItem="GBC-vD-fyd" firstAttribute="top" secondItem="EfT-fP-fTV" secondAttribute="bottom" constant="5" id="oMX-Eh-JJw"/>
+                            <constraint firstAttribute="bottom" secondItem="ZeH-yt-Axr" secondAttribute="bottom" id="opl-3V-mql"/>
+                            <constraint firstItem="ZpZ-AG-9qv" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="pHh-eS-e8g"/>
+                            <constraint firstItem="ZeH-yt-Axr" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="t4q-A0-MFm"/>
+                            <constraint firstItem="ZeH-yt-Axr" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="yWI-8T-rrP"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.671755725190835" y="374.64788732394368"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="logo_150" width="150" height="150"/>
+        <image name="splash_background_dark" width="390" height="844"/>
+    </resources>
+</document>
